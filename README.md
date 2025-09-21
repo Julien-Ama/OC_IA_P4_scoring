@@ -10,4 +10,5 @@ refusé.
 
 
  0 = negatif = client stable
+ 
  1 = positif = client à risque
